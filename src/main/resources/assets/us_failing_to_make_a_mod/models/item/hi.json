@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "us_failing_to_make_a_mod:items/hi"
+  }
+}
